@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Mints!;" />
 </h1>
 
-<h3 align="center">Im a masters student at Northeastern University MSECE</h3>
+<h3 align="center">Im a PhD student at UMass Dartmouth</h3>
 
 <br/>
 
