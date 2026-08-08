@@ -13,9 +13,9 @@
 
 ♔ I’m interested in **Machine Learning, Artificial Inteligence, Computer Networks and Cyber Security**
 
- 💻 My concentration is in **Computer Vision, Machine Learning, and Algorithms MSECE**
+ 💻 My concentration is in **AI Security**
  
- 👨‍🎓 Graduated from **Brandeis University** with a BS in Computer Science
+ 👨‍🎓 Graduated from **Brandeis University** with a BS in Computer Science and **Northeastern University** with a MS in Computer Engineering
 
  🤫 Ask me about anything... why not? Who knows, I might have the answer 
 
