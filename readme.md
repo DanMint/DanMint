@@ -11,7 +11,7 @@
 
 <div align="center">
 
-♔ I’m interested in **Machine Learning, Artificial Inteligence, Computer Networks and Cyber Security**
+♔ I’m interested in **Machine Learning, Artificial Intelligence, Computer Networks and Cyber Security**
 
  💻 My concentration is in **AI Security**
  
